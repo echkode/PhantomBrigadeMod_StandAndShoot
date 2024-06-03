@@ -1,0 +1,7 @@
+removed: false
+edits:
+- 'dataCore.functionsOnValidation: !d'
+- 'dataCore.functionsOnValidation.0: !CombatActionValidatePart !+'
+- 'dataCore.functionsOnValidation.0.socket: equipment_right'
+- 'dataCore.functionsOnValidation.0.tags: !d'
+- 'dataCore.functionsOnValidation.0.tags.stand_and_shoot: false !+'
