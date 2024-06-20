@@ -4,13 +4,11 @@
 using System.Collections.Generic;
 using System.Linq;
 
-using Content.Code.Utility;
 using PhantomBrigade;
 using PhantomBrigade.Functions;
 
 namespace EchKode.PBMods.StandAndShoot.Functions
 {
-	[TypeHinted]
 	[System.Serializable]
 	public sealed class CombatActionValidatePart : ICombatActionValidationFunction
 	{
